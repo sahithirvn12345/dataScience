@@ -1,0 +1,69 @@
+ history
+    1  git --version
+    2  pwd
+    3  ls
+    4  ls -a
+    5  clear
+    6  cd Desktop/
+    7  ls -a
+    8  clear
+    9  pwd
+   10  ls
+   11  ls -a
+   12  cd voot
+   13  cd
+   14  cd ai assignment
+   15  cd Desktop
+   16  cd ..
+   17  cd
+   18  cd Desktop
+   19  mkdir DataScience
+   20  cd DataScience
+   21  ls
+   22  touch Data.txt
+   23  ls
+   24  cat Data.txt
+   25  echo "DataScience" > Data.txt
+   26  cat Data.txt
+   27  gedit Data.txt
+   28  nano Data.txt
+   29  cat Data.txt
+   30  nano Data.txt
+   31  cat Data.txt
+   32  ls
+   33  nano test.txt
+   34  ls
+   35  cat test.txt
+36  rm test.txt
+   37  ls
+   38  rm -d <DirName>
+   39  rmdir <DirName>
+   40  ls
+   41  git init
+   42  git status
+   43  git  add Data.txt
+   44  git status
+   45  git commit -m "First Commit"
+   46  git config --global user.email 'rvnsahithi1612@gmail.com'
+   47  git config --global user.name 'Rvn.Sahithi'
+   48  git config user.email
+   49  git config user.name
+   50  git commit -m "first commit"
+   51  nano Data.txt
+   52  git status
+   53  git add Data.txt
+   54  git commit -m "Second Commit"
+ 55  git log
+   56  mkdir dataScience
+   57  ls
+   58  git remote help
+   59  git remote add dataScience https://github.com/sahithirvn12345/dataScience
+   60  git remote show
+   61  git remote -v
+   62  git pull dataScience master
+   63  git push -u dataScince
+   64  git push --set-upstream dataScience master
+   65  git  push -f --set-upstream dataScience master
+   66  history
+
+
